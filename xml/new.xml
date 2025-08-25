@@ -1,0 +1,22 @@
+<product_list xmlns="http://www.example.com/products"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.example.com/products product.xsd">
+    <product sku="SKU-12345">
+        <name>Wireless Mouse</name>
+        <brand>TechCorp</brand>
+        <price currency="USD">25.00</price>
+        <features>
+            <feature>Ergonomic Design</feature>
+            <feature>USB Receiver</feature>
+        </features>
+    </product>
+    <product sku="SKU-67890">
+        <name>Mechanical Keyboard</name>
+        <brand>KeyMaster</brand>
+        <price currency="USD">120.00</price>
+        <features>
+            <feature>RGB Backlighting</feature>
+            <feature>Tactile Switches</feature>
+        </features>
+    </product>
+</product_list>

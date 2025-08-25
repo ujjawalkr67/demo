@@ -1,0 +1,22 @@
+<catalog>
+    <book id="bk101">
+        <author>J.K. Rowling</author>
+        <title>Harry Potter and the Sorcerer's Stone</title>
+        <genre>Fantasy</genre>
+        <price>19.99</price>
+        <publish_date>1997-06-26</publish_date>
+        <description>
+            A young wizard's first year at Hogwarts School of Witchcraft and Wizardry.
+        </description>
+    </book>
+    <book id="bk102">
+        <author>George Orwell</author>
+        <title>1984</title>
+        <genre>Dystopian</genre>
+        <price>15.50</price>
+        <publish_date>1949-06-08</publish_date>
+        <description>
+            A novel about a totalitarian government and the consequences of its control over society.
+        </description>
+    </book>
+</catalog>
