@@ -1,0 +1,16 @@
+<configuration>
+    <database>
+        <driver>com.mysql.cj.jdbc.Driver</driver>
+        <url>jdbc:mysql://localhost:3306/my_app_db</url>
+        <username>admin</username>
+        <password>secure_password</password>
+    </database>
+    <application>
+        <log_level>INFO</log_level>
+        <port>8080</port>
+        <enabled_features>
+            <feature>user_authentication</feature>
+            <feature>data_caching</feature>
+        </enabled_features>
+    </application>
+</configuration>
